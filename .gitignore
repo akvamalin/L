@@ -1,0 +1,8 @@
+.idea
+*.tfstate
+.terraform
+env
+lib
+*.zip
+.vscode
+package
